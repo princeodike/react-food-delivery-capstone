@@ -3,7 +3,7 @@
 A responsive frontend Food Ordering and Delivery web application built with React JS, React Router DOM, and pure CSS, recreating a modern food delivery UI design.
 
 ## Live Demo
-- **Deployed Website:** [Add your Vercel link here after Step 4]
+- **Deployed Website:** https://react-food-delivery-capstone-omega.vercel.app/#home
 
 ## Technologies Used
 - HTML5
